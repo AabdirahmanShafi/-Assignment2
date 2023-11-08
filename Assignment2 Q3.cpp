@@ -18,13 +18,13 @@ int main() {
     char grade;
 
     switch (score / 10) {
-        case 7:
+        case 1:
             grade = 'A';
             break;
-        case 6:
+        case 2:
             grade = 'B';
             break;
-        case 5:
+        case 3:
             grade = 'C';
             break;
         case 4:
